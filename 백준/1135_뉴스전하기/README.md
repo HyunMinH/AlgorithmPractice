@@ -1,6 +1,3 @@
-# 문제
-(https://www.acmicpc.net/problem/1135)
-
 # 풀이
 
 ## 입력
