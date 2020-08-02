@@ -1,4 +1,4 @@
-# AlgorithmPractice
+# algorithm.practice
 
 ### 💎 개요
 1) 개인적으로 알고리즘 문제 연습
